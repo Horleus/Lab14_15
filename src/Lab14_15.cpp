@@ -25,7 +25,7 @@ int main() {
 			min_dod = T[i];
 	}
 
-	cout << "Найбільша від'ємна температура " << min_vid << endl;
+	cout << "Найбiльша вiд'ємна температура " << min_vid << endl;
 	cout << "Найменьша додатня температура " << min_dod << endl;
 
 	return 0;
